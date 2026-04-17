@@ -1,4 +1,7 @@
+#Aula 07 - elaborando perguntas
 
+Criação de tabvela dinâmica utilizando dados abertos sp para desenvolver perguntas e respostas
+Aplicando as funções "=SOMASE" e "=CONT.SE"
 
 
 
