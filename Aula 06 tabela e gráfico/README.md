@@ -4,6 +4,7 @@ Criação de gráfico e tabela dinâmica
 utilizando dados abertos sp
 * transporte e veículos/multas pagas.
 
+Aplicação das funçoes "=SOMASE"
 
 
 
