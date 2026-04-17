@@ -1,4 +1,8 @@
+# Aula 06- Gráfico e tabela dinâmica
 
+Criação de gráfico e tabela dinâmica 
+utilizando dados abertos sp
+* transporte e veículos/multas pagas.
 
 
 
